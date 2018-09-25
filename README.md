@@ -1,4 +1,4 @@
-# ArcoLinux BYOI Openbox desktop
+# ArcoLinux BYOI Openbox Minimal desktop
 
 # Get your code to build your own iso
 
