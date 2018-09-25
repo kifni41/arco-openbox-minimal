@@ -140,7 +140,7 @@ libdvdcss
 pulseaudio
 pulseaudio-alsa
 pavucontrol
-#volumeicon
+volumeicon
 
 #bluetooth
 blueberry
@@ -220,9 +220,9 @@ poppler-qt5
 #atom
 #catfish
 #chromium
-#compton
+compton
 #darktable
-#dmenu
+dmenu
 #evolution
 #feh
 #firefox
@@ -239,11 +239,11 @@ imagemagick
 #meld
 #nitrogen
 numlockx
-#pragha
+pragha
 scrot
 #simplescreenrecorder
 termite
-#tint2
+tint2
 #transmission-gtk
 #variety
 vlc
@@ -284,21 +284,21 @@ lightdm
 
 
 #lx-applications
-#lxappearance-obconf
-#lxmenu-data
-#lxrandr
+lxappearance-obconf
+lxmenu-data
+lxrandr
 
 #openbox
-#gtk2-perl
-#obconf
-#openbox
+gtk2-perl
+obconf
+openbox
 
 #themes
 #adapta-gtk-theme
 arc-gtk-theme
 
 #utilities
-#arandr
+arandr
 #asciinema
 bash-completion
 #baobab
@@ -336,12 +336,12 @@ jsoncpp
 libmtp
 laptop-detect
 lsb-release
-#lxrandr
+lxrandr
 mlocate
 #nomacs
 p7zip
 #plank
-#playerctl
+playerctl
 polkit
 polkit-gnome
 python2-dbus
@@ -373,7 +373,7 @@ webkit2gtk
 wget
 wmctrl
 xapps
-#xcape
+xcape
 xdg-desktop-portal-gtk
 #xfburn
 zenity
@@ -420,10 +420,10 @@ sardi-icons
 #b43-firmware
 
 #openbox
-#obkey
-#obmenu3
-#obmenu-generator
-#perl-linux-desktopfiles
+obkey
+obmenu3
+obmenu-generator
+perl-linux-desktopfiles
 
 #tools
 mkinitcpio-openswap
@@ -438,9 +438,9 @@ downgrade
 #grub-customizer
 hardcode-fixer-git
 inxi
-menulibre
+#menulibre
 mintstick-git
-mugshot
+#mugshot
 neofetch
 #oh-my-zsh-git
 #oomox
@@ -474,19 +474,19 @@ yay-bin
 
 #############################
 #arcolinux_repo for arcolinux
-#arcolinux-applications-git
+arcolinux-applications-git
 arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
-#arcolinux-common-git
+arcolinux-common-git
 #arcolinux-config-cinnamon-git
 arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-plasma-git
 arcolinux-conky-collection-git
-#arcolinux-docs-git
-arcolinux-faces-git
+arcolinux-docs-git
+#arcolinux-faces-git
 arcolinux-fonts-git
 #arcolinux-geany-git
 #arcolinux-i3wm-git
@@ -496,13 +496,13 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-local-git
 arcolinux-neofetch-git
 #arcolinux-nitrogen-git
-#arcolinux-oblogout
+arcolinux-oblogout
 #arcolinux-oblogout-awesome
 #arcolinux-oblogout-bspwm
-#arcolinux-oblogout-themes-git
-#arcolinux-obmenu-generator-git
-#arcolinux-openbox-configs-git
-#arcolinux-openbox-themes-git
+arcolinux-oblogout-themes-git
+arcolinux-obmenu-generator-git
+arcolinux-openbox-configs-git
+arcolinux-openbox-themes-git
 arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
@@ -513,11 +513,11 @@ arcolinux-root-git
 arcolinux-slim
 arcolinux-slimlock-themes-git
 arcolinux-termite-themes-git
-#arcolinux-tint2-git
-#arcolinux-tint2-themes-git
+arcolinux-tint2-git
+arcolinux-tint2-themes-git
 #arcolinux-variety-git
 arcolinux-wallpapers-git
-arcolinux-xfce4-panel-profiles-git
+#arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-thunar-git
 
 #xfce4 also for ArcoLinuxB iso builds
@@ -549,37 +549,37 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
-xfce4-battery-plugin
+#xfce4-battery-plugin
 xfce4-clipman-plugin
-xfce4-cpufreq-plugin
-xfce4-cpugraph-plugin
-xfce4-datetime-plugin
-xfce4-dict
-xfce4-diskperf-plugin
-xfce4-eyes-plugin
-xfce4-fsguard-plugin
-xfce4-genmon-plugin
-xfce4-mailwatch-plugin
-xfce4-mount-plugin
-xfce4-mpc-plugin
-xfce4-netload-plugin
-xfce4-notes-plugin
+#xfce4-cpufreq-plugin
+#xfce4-cpugraph-plugin
+#xfce4-datetime-plugin
+#xfce4-dict
+#xfce4-diskperf-plugin
+#xfce4-eyes-plugin
+#xfce4-fsguard-plugin
+#xfce4-genmon-plugin
+#xfce4-mailwatch-plugin
+#xfce4-mount-plugin
+#xfce4-mpc-plugin
+#xfce4-netload-plugin
+#xfce4-notes-plugin
 xfce4-notifyd
-xfce4-pulseaudio-plugin
+#xfce4-pulseaudio-plugin
 xfce4-screenshooter
-xfce4-sensors-plugin
-xfce4-smartbookmark-plugin
-xfce4-systemload-plugin
+#xfce4-sensors-plugin
+#xfce4-smartbookmark-plugin
+#xfce4-systemload-plugin
 xfce4-taskmanager
-xfce4-time-out-plugin
-xfce4-timer-plugin
-xfce4-verve-plugin
-xfce4-wavelan-plugin
-xfce4-weather-plugin
-xfce4-whiskermenu-plugin
-xfce4-xkb-plugin
+#xfce4-time-out-plugin
+#xfce4-timer-plugin
+#xfce4-verve-plugin
+#xfce4-wavelan-plugin
+#xfce4-weather-plugin
+#xfce4-whiskermenu-plugin
+#xfce4-xkb-plugin
 
-xfce4-panel-profiles
+#xfce4-panel-profiles
 
 #Needed for Calamares installer
 calamares
@@ -596,4 +596,4 @@ boost-libs
 libpwquality
 squashfs-tools
 
-arcolinuxb-calamares-xfce-git
+arcolinuxb-calamares-openbox-git
