@@ -222,6 +222,7 @@ poppler-qt5
 #chromium
 compton
 #darktable
+deadbeef
 dmenu
 #evolution
 #feh
@@ -239,7 +240,7 @@ imagemagick
 #meld
 nitrogen
 numlockx
-pragha
+#pragha
 scrot
 #simplescreenrecorder
 termite
