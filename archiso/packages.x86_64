@@ -354,7 +354,7 @@ qt5-webkit
 reflector
 #redshift
 #ristretto
-#rofi
+rofi
 #rxvt-unicode
 #simple-scan
 #shotwell
@@ -508,8 +508,8 @@ arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
 #arcolinux-polybar-git
-#arcolinux-rofi-git
-#arcolinux-rofi-themes-git
+arcolinux-rofi-git
+arcolinux-rofi-themes-git
 arcolinux-root-git
 arcolinux-slim
 arcolinux-slimlock-themes-git
