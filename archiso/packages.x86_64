@@ -286,7 +286,7 @@ lightdm
 
 #lx-applications
 lxappearance-obconf
-lxmenu-data
+#lxmenu-data
 lxrandr
 
 #openbox
